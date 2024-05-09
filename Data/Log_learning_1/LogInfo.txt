@@ -1,0 +1,21 @@
+
+SIMULATION START ==> 07/05/2024 22:37:25
+
+
+---------------------------------------
+
+Episode 1 ==> CRASH {0.03,-0.84,-33.94}    07/05/2024 22:37:57
+episode time: 32.40 s (avg step: 0.10 s) 
+episode steps: 322 
+episode reward: -85.50 
+episode max | avg | min reward: 0.40 | -0.27 | -100.00 
+T = 25.000000 
+
+---------------------------------------
+
+Episode 2 ==> MAX STEPS PER EPISODE REACHED {500}    07/05/2024 22:38:48
+episode time: 51.00 s (avg step: 0.10 s) 
+episode steps: 500 
+episode reward: 26.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 23.750000 
